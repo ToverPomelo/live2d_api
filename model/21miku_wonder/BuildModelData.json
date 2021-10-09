@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6413543072410442539
+  },
+  "m_Name": "BuildModelData",
+  "Moc3FileName": "21miku_wonder_3.0_f_t02.moc3.bytes",
+  "TextureNames": [
+    "21miku_wonder_3.0_f_t02.2048/texture_00.png"
+  ],
+  "PhysicsFileName": "21miku_wonder_3.0_f_t02.physics3.json",
+  "UserDataFileName": "",
+  "AdditionalMotionData": [],
+  "CategoryRules": []
+}
